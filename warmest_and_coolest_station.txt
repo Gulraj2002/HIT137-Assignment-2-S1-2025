@@ -1,0 +1,8 @@
+---------------------------------------------------
+Warmest and Coolest Weather Stations (Average Celsius)
+---------------------------------------------------
+Warmest Station(s):
+- MARBLE-BAR: 37.40
+
+Coolest Station(s):
+- CABRAMURRA-SMHEA-AWS: 13.42

@@ -1,0 +1,23 @@
+---------------------------------------
+Average Monthly Temperatures (Celsius)
+---------------------------------------
+January: 32.73
+February: 32.12
+March: 30.42
+April: 27.57
+May: 23.97
+June: 21.03
+July: 20.36
+August: 21.81
+September: 24.91
+October: 27.58
+November: 29.82
+December: 31.47
+
+----------------------------------------
+Average Seasonal Temperatures (Celsius)
+----------------------------------------
+Summer: 32.10
+Autumn: 27.32
+Winter: 21.07
+Spring: 27.43
